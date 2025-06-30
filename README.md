@@ -34,23 +34,6 @@ I'm a front-end developer from Halabja 🇮🇶, passionate about building clean
 
 ---
 
-## 📂 My Code Organization
-- I like to organize my projects cleanly:
-<pre>
-  /src
-└── components/
-└── context/
-└── styles/
-/api
-└── routes/
-└── controllers/
-└── models/
-└── middleware/
-server.js
-</pre>
-
----
-
 ## 🎯 Goals
 - Build a complete full-stack app with authentication and real users
 - Master database relationships and API security
