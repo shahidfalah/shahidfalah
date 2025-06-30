@@ -1,53 +1,84 @@
-# 👋 Hi, I'm Shahid Falah
+# 👋 Hey, I'm Shahid Falah
 
-I'm a front-end developer from Halabja 🇮🇶, passionate about building clean, user-friendly web applications. I'm currently studying Computer Science at the University of Halabja and exploring the full stack by building real-world projects using **React**, **Express**, and **MySQL**.
+I'm a self-driven front-end developer based in Halabja 🇮🇶, currently studying Computer Science and working to become a full-stack developer.
 
----
-
-## 🚀 Skills & Tools
-
-### 💻 Frontend
-- **HTML**, **CSS**, **JavaScript**
-- **React.js** – with experience in `react-router`, `context API`, and conditional rendering
-- **Tailwind CSS** & UI Libraries like **MUI**, **Lucide**
-- **Figma** – for designing and translating UI into code
-
-### 🔧 Backend
-- **Node.js** + **Express**
-- **MySQL** with basic schema design and CRUD
-- API routes & middleware (auth, data validation)
-
-### 🌐 Full Stack Projects
-- I've been building modern web apps using a custom setup:
-  - React on the front end
-  - Express.js API for the backend
-  - MySQL for the database
-- Environment configuration with `.env` files
-- File structure following MVC principles
+I specialize in **React.js** and I'm building real-world projects using **Express.js** and **MySQL**. I care about writing clean, understandable code and creating apps that are both useful and scalable.
 
 ---
 
-## 📚 Currently Learning
-- **Prisma** for database ORM
-- **Next.js** with authentication
-- **Improving my English & Arabic** for better communication in development
+## 🧠 Tech Stack
+
+### Frontend
+- React.js (SPA, routing, context)
+- Tailwind CSS, MUI, Lucide
+- Figma (for UI design and planning)
+
+### Backend
+- Node.js + Express (REST APIs)
+- MySQL (manual queries and relational design)
+- Auth systems (using encrypted tokens, cookies, and role-based middleware)
+
+### Tools
+- Git, GitHub (basic version control)
+- Vercel (frontend deployment)
+- Planning to learn testing using **Google Test**, **Postman**, or **Jest**
 
 ---
 
-## 🎯 Goals
-- Build a complete full-stack app with authentication and real users
-- Master database relationships and API security
-- Apply for remote junior dev opportunities
+## 🚀 Best Project: Flash Sale Platform
+
+> Built with **React** (frontend), **Express** (planned API layer), and **MySQL** (database).
+
+### Goal:
+A clean, scalable system for showing time-limited sales with backend logic.
+
+### What I’ve done:
+- Designed frontend logic with component reusability in mind
+- Created a plan to separate logic between frontend and API
+- Learning to push more logic into MySQL for scalability (e.g. date-based filtering, indexing)
+
+### What I’d improve:
+- Switch to **Next.js** for better server-side rendering and routing
+- Add middleware + cookies for secure authentication
+- Add a testing layer for backend and form inputs
 
 ---
 
-## 🤝 Let’s Connect
-I'm always open to feedback, collaborations, or just chatting about tech and development.
+## 🔒 Auth & Security Practices
 
-📧 Email: shahidfalahdev@gmail.com  
-🌍 Languages: Kurdish (native), Arabic, English (learning more every day)
+- Using middleware to protect routes (e.g. block users from accessing admin routes)
+- Encrypting sessions in cookies (learning best practices for secure storage)
+- Role-based access control (e.g. admin vs delivery vs user roles)
 
 ---
 
-> “I'm not the best yet, but I'm showing up every day.”
+## 🛠 Projects & Commits
+
+I'm working on improving my GitHub repos:
+- Organizing code clearly by `src/`, `api/`, and `public/`
+- Improving commit messages and history tracking
+- Adding better `README.md` files for project instructions
+
+---
+
+## 📌 Goals
+
+- ✅ Deploy frontend projects using Vercel  
+- 🛠 Deploy Express backend (Render or Railway – next step)  
+- 🔐 Implement full JWT + session-based authentication  
+- 📦 Learn deployment pipelines using Git + CI  
+- 🧪 Learn testing basics using Postman or Google Test
+
+---
+
+## 🌍 About Me
+
+- Location: Halabja, Iraq 🇮🇶
+- Languages: Kurdish (native), Arabic, English (improving)
+- Status: Student 👨‍🎓
+- Open to: **onsite or remote jobs (within my country)**
+
+---
+
+> “I’m not perfect, but I show up every day to build and learn. That’s how progress happens.”
 
