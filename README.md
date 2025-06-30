@@ -1,45 +1,44 @@
-# Shahid Falah  👨‍💻
+# Shahid Falah 👨‍💻
 
-`🖥 Front-end Dev` | `🎓 CS Student` | `📍 Halabja, Iraq 🇮🇶`
-
----
-
-## 🏆 Core Stack
-
-**🌐 Frontend**  
-⚛️ React | 🎨 Tailwind | 📱 Responsive  
-
-**🔙 Backend**  
-🟢 Node.js | 🚀 Express  
-
-**🗃️ Data**  
-🐬 MySQL | 🔍 SQL  
-
-**🛠️ Tools**  
-🔗 Git | 🎨 Figma | 📡 Postman  
+`Front-end developer` | `CS student` | `Based in Halabja, Iraq 🇮🇶`
 
 ---
 
-## 🏅 Top Project: Flash Sale Platform
+## 👋 About Me
 
-`🔥 React` + `⚡ Express` + `💾 MySQL`  
-✔️ Role-based access  
-✔️ Cookie encryption  
-✔️ Protected routes  
-
-*(GitHub link here)*  
+Passionate front-end developer building responsive, user-centric web applications. Computer science student by day, React enthusiast by night. Focused on creating secure, scalable solutions with modern tech stacks.
 
 ---
 
-## 🚀 Next Steps  
+## 🛠 Tech Stack
 
-🧪 Learning testing (Postman → Google Test)  
-📈 Mastering database scaling  
-💼 Seeking dev jobs in Iraq  
+| Category       | Technologies                          |
+|----------------|---------------------------------------|
+| **Frontend**   | React, Tailwind CSS, HTML5, CSS3      |
+| **Backend**    | Express, Node.js                      |
+| **Database**   | MySQL                                 |
+| **Tools**      | Git, GitHub, Figma, Postman           |
+| **Practices**  | REST APIs, JWT Auth, Responsive Design|
 
 ---
 
-`🌍 Kurdish | English | Arabic`  
-`📫 Let's connect: shahid.falah.j@gmail.com`  
+## 🚀 Featured Project: **Flash Sale Platform**
 
-> "Build fast, but don't hurry."  
+`React` `Express` `Supabase` `JWT Auth` `Tailwind`
+
+▶ E-commerce platform with time-sensitive deals  
+▶ Full-stack implementation with role-based access  
+▶ Secure authentication with cookie encryption  
+▶ Protected routes using middleware  
+
+*(will come soon)*
+
+---
+
+## 📍 Footer
+
+`📍 Halabja, Iraq` `💬 Kurdish, English, Arabic`  
+
+> "Code is poetry—write it with purpose."  
+
+📫 **Let's connect**: shahid.falah.j@gmail.com
