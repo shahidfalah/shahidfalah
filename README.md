@@ -36,7 +36,8 @@ I'm a front-end developer from Halabja 🇮🇶, passionate about building clean
 
 ## 📂 My Code Organization
 - I like to organize my projects cleanly:
-/src
+<pre>
+  /src
 └── components/
 └── context/
 └── styles/
@@ -46,6 +47,7 @@ I'm a front-end developer from Halabja 🇮🇶, passionate about building clean
 └── models/
 └── middleware/
 server.js
+</pre>
 
 ---
 
