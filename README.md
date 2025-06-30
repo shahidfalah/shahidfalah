@@ -1,65 +1,79 @@
-# 👋 Hey, I'm Shahid Falah
-
-I'm a self-driven front-end developer based in Halabja 🇮🇶, currently studying Computer Science and working to become a full-stack developer.
-
-I specialize in **React.js** and I'm building real-world projects using **Express.js** and **MySQL**. I care about writing clean, understandable code and creating apps that are both useful and scalable.
+<h1 align="center">👋 Hey, I'm Shahid Falah</h1>
+<p align="center">Front-end developer from Halabja, Iraq 🇮🇶 | CS student | React, Express & MySQL enthusiast</p>
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
 
-### Frontend
-- React.js (SPA, routing, context)
-- Tailwind CSS, MUI, Lucide
-- Figma (for UI design and planning)
-
-### Backend
-- Node.js + Express (REST APIs)
-- MySQL (manual queries and relational design)
-- Auth systems (using encrypted tokens, cookies, and role-based middleware)
-
-### Tools
-- Git, GitHub (basic version control)
-- Vercel (frontend deployment)
-- Planning to learn testing using **Google Test**, **Postman**, or **Jest**
-
----
-
-## 🚀 Best Project: Flash Sale Platform
-
-> Built with **React** (frontend), **Express** (planned API layer), and **MySQL** (database).
-
-### Goal:
-A clean, scalable system for showing time-limited sales with backend logic.
-
-### What I’ve done:
-- Designed frontend logic with component reusability in mind
-- Created a plan to separate logic between frontend and API
-- Learning to push more logic into MySQL for scalability (e.g. date-based filtering, indexing)
-
-### What I’d improve:
-- Switch to **Next.js** for better server-side rendering and routing
-- Add middleware + cookies for secure authentication
-- Add a testing layer for backend and form inputs
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔒 Auth & Security Practices
+## 🧠 Best Project
 
-- Using middleware to protect routes (e.g. block users from accessing admin routes)
-- Encrypting sessions in cookies (learning best practices for secure storage)
-- Role-based access control (e.g. admin vs delivery vs user roles)
+**🛍️ Flash Sale Platform**
+
+- Built using **React** for UI, planning **Express** APIs, and **MySQL** for database.
+- Focused on clean design, category filtering, and future scalability.
+- Authentication planned via middleware and cookie encryption.
+- Plans to switch to **Next.js** for better structure and performance.
+
+---
+
+## 🔐 Auth & Roles
+
+- Protected routes with custom middleware.
+- Role-based access: user / admin / delivery.
+- Sessions handled via encrypted cookies.
 
 ---
 
-## 🛠 Projects & Commits
+## 🧪 Testing & Deployment
 
-I'm working on improving my GitHub repos:
-- Organizing code clearly by `src/`, `api/`, and `public/`
-- Improving commit messages and history tracking
-- Adding better `README.md` files for project instructions
+- ✅ Deployed frontend via **Vercel**
+- 🧪 Planning to test APIs with **Postman** or **Google Test**
+- 🛠 Will use **GitHub Actions** in future for CI
 
 ---
+
+## 📁 Project Structure (Typical)
+
+```bash
+/src
+  └── components/
+  └── context/
+  └── styles/
+/api
+  └── routes/
+  └── controllers/
+  └── models/
+server.js
+
 
 ## 📌 Goals
 
