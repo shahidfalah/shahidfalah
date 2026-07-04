@@ -1,7 +1,6 @@
 <div align="center">
 
 # Shahid Falah
-
 **Full-stack developer · CS student · Halabja, Kurdistan 🇮🇶**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -24,10 +23,16 @@ Builder first, student second. I don't just study technology — I ship it.
 
 ---
 
+## 🚀 Featured projects
+
+- **[HotShop](https://github.com/shahidfalah/HotShop-An-E-Commerce-Platform)** — Full-stack e-commerce platform built with Next.js 15, optimized for flash sales and admin management
+- **[VFX Portfolio Website](https://github.com/shahidfalah/vfx-portfolio-website)** — Bilingual portfolio site for a VFX/CGI artist, built with Next.js 15 + Sanity CMS
+
+---
+
 ## ⚙️ Tech stack
 
 **Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -37,13 +42,11 @@ Builder first, student second. I don't just study technology — I ship it.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 **Backend & data**
-
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -54,7 +57,7 @@ Builder first, student second. I don't just study technology — I ship it.
 ## 📈 My journey
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=shahidfalah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars&bg_color=00000000&show=prs_merged,prs_merged_percentage"/>
+  <img height="50%" width="auto" src="https://github-readme-stats-steel-theta-71.vercel.app/api?username=shahidfalah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=issues,contribs,stars,prs_merged,prs_merged_percentage"/>
   <img height="50%" width="auto" src="https://github-readme-stats-steel-theta-71.vercel.app/api/top-langs/?username=shahidfalah&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
 </p>
 
